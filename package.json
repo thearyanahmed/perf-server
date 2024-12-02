@@ -1,0 +1,23 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/tabya/node-performance.git"
+  },
+  "author": "tabya GmbH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/tabya/node-performance/issues"
+  },
+  "homepage": "https://gitlab.com/tabya/node-performance#readme",
+  "dependencies": {
+    "p-limit": "3.1.0"
+  }
+}
